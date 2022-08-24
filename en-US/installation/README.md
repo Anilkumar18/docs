@@ -8,6 +8,7 @@ name: Installation
     - [MySQL](http://dev.mysql.com): Version >= 5.7
     - [PostgreSQL](http://www.postgresql.org/)
     - [TiDB](https://github.com/pingcap/tidb) (experimental, connect via the MySQL protocol)
+    - MSSQL
     - or **NOTHING** with SQLite3
 - [Git](http://git-scm.com/) (bash):
     - Version >= 1.8.3 for both server and client sides
